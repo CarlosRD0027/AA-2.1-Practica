@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+<body bgcolor="green">
+
+<h1> <b>mi pagina web</b> </h1>
+<p> <b> Trabajo que se realizara durante el transcurso del semestre  </b> </p>
+
+<label> <b>distintos tipos de actividades a realizar en tus vacaciones</b> </label><br>
+<input list="actividades" placeholder="Tipos de actividades">
+
+<datalist id= "actividades">
+  <option value="Futbol">
+  <option value="Baile">
+  <option value="Musica">
+  <option value="Comida">
+  <option value="Dormir">
+  <option value="Juegos">
+</datalist>
+
+
+ <button>
+   
+   Click para ganar 500,000$ dolares
+
+ </button> 
+
+</body>
+</html>
